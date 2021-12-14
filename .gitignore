@@ -3,6 +3,7 @@ test/
 work #2/
 /templates/
 UI-schedule/venv
+UI-schedule/templates
 Calculator/venv/
 MyWebApp/__pycache__
 MyWebApp/venv
