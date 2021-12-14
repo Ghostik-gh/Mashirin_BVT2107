@@ -1,0 +1,11 @@
+microblog/
+test/
+work #2/
+/templates/
+UI-schedule/venv
+Calculator/venv/
+MyWebApp/__pycache__
+MyWebApp/venv
+MyWebApp/trash
+Schedule_BVT2107/venv
+Telegram Bot/venv
