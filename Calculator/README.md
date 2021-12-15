@@ -1,10 +1,12 @@
-# Calculator
-### libs:
+Отчет по работе “Calculator”
+Требуемы библиотеки:
+
 PyQt5.QtWidgets
 
-
-### Methods of the "Calculator" class: ###
-*	_create - create UI - window 
-*	_button - process pressing of all buttons with numbers and point
-*	_operation - process pressing of all math buttons
-*	_result - displays of result on the screen
+Класс Calculator представляет из себя главное окно программы
+Описание методов класса Calculator:
+•	_create - создает весь интерфейс 
+•	_button - обрабатывает нажатие всех кнопок с цифрами и точкой
+•	_operation - обрабатывает нажатие всех кнопок с мат операциями
+•	_result - выводит результат операции на экран
+Вывод:  результате проделанной работы я закрепил навыки использования библиотек PyQt5
