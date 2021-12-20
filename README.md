@@ -11,3 +11,5 @@ This repository presents my projects for the first semester.
 > Schedule_BVT2107
 - Shedule program with UI
 > UI-schedule
+- work#2
+> Trasnlator

@@ -1,6 +1,7 @@
 microblog/
 test/
-work #2/
+work #2/venv
+work #2/__pycache__
 /templates/
 UI-schedule/venv
 UI-schedule/templates
